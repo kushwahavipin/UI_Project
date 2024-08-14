@@ -1,12 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300;700&display=swap");
 
 :root {
-  --main-color: #6B6FA9;
-  --secondary-color: #272156;
+  --main-color: #1623dc;
+  --secondary-color: #158be4;
   --light-color: #F4F4FB;
   --border-color: #E2DDEA;
   --overlay-color: rgba(0,0,0,0.2);
-  --border-radius: 1.5rem;
+  --border-radius: 1.0rem;
 }
 
 * {
@@ -43,7 +43,7 @@ h1 {
 }
 
 .btn:hover {
-  opacity: 0.9;
+  opacity: 0.5;
 }
 
 .btn:active {
